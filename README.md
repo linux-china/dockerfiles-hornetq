@@ -20,5 +20,5 @@ please add following code into your docker-compose.yml
     
 ### Image Tags
 
-linuxchina/hornetq:latest
-linuxchina/hornetq:2.4.7
+* linuxchina/hornetq:latest
+* linuxchina/hornetq:2.4.7
